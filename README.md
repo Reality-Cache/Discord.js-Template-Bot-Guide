@@ -36,4 +36,4 @@ SIDE NOTE:
 
 NONE OF THIS CODE IS DIRECTLY MINE
 ALL CREDIT GOES TO: https://github.com/discordjs/guide
-
+This is only meant to be a template laying the groundwork for YOU to create a bot, this is not fully featured and is just the barebones of a Discord Bot.
