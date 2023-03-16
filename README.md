@@ -5,7 +5,7 @@ I have fixed every bug, every problem, and every error with the original code. I
 I'm not profficient in coding whatsover so if you see any errors please feel free to tell me!
 
 DEPENDENCIES!
-__
+________
 node.js: ^19.7.0
 chalk: ^5.2.0
 discord.js: ^14.8.0
@@ -13,7 +13,7 @@ dotenv: ^16.0.3
 git: ^0.1.5
 
 INSTRUCTIONS:
-__
+________
 1: In the main folder, create a file titled: config.json
 2: copy this code inside of it: 
 {
