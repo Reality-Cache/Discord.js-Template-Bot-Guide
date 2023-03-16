@@ -8,9 +8,13 @@ ____
 DEPENDENCIES!
 
 node.js: ^19.7.0
+
 chalk: ^5.2.0
+
 discord.js: ^14.8.0
+
 dotenv: ^16.0.3
+
 git: ^0.1.5
 ____
 INSTALLATION INSTRUCTIONS:
@@ -40,4 +44,6 @@ SIDE NOTE:
 NONE OF THIS CODE IS DIRECTLY MINE
 ALL CREDIT GOES TO: https://github.com/discordjs/guide
 
+
 This is only meant to be a template laying the groundwork for YOU to create a bot, this is not fully featured and is just the barebones of a Discord Bot.
+
