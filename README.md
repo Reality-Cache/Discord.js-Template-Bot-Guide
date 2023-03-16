@@ -16,24 +16,28 @@ ____
 INSTALLATION INSTRUCTIONS:
 
 1: In the main folder, create a file titled: config.json
-2: copy this code inside of it: 
-{
+2: copy this code inside of it:
+
+`{
 	"token": "insert-bot-token-here",
 	"clientId": "insert-clientId-here",
 	"guildId": "insert-guildId-here"
-}
+}`
 ____
 HOW TO RUN:
 
 1: Before running the bot, open up a terminal that is cd'd into the main folder
+
 2: Run this command: node deploy-commands
 	This command is what uploads the /commands into the discord api for your bot to use.
 	(You only need to run this the first time you run your bot, and every change you make to the files in the commands folder)
-Once commands have been deployed run the command: node .
+	
+3: Once commands have been deployed run the command: node .
 	This will start the bot and you can now use it.
 ____
 SIDE NOTE:
 
 NONE OF THIS CODE IS DIRECTLY MINE
 ALL CREDIT GOES TO: https://github.com/discordjs/guide
+
 This is only meant to be a template laying the groundwork for YOU to create a bot, this is not fully featured and is just the barebones of a Discord Bot.
