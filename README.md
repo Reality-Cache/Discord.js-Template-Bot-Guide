@@ -10,3 +10,13 @@ chalk: ^5.2.0
 discord.js: ^14.8.0
 dotenv: ^16.0.3
 git: ^0.1.5
+
+INSTRUCTIONS:
+____________
+1: In the main folder, create a file titled: config.json
+2: copy this code inside of it: 
+{
+	"token": "insert-bot-token-here",
+	"clientId": "insert-clientId-here",
+	"guildId": "insert-guildId-here"
+}
