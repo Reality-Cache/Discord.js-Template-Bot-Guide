@@ -1,8 +1,9 @@
 This project is my first attempt at fixing the Discordjs.guide and making it easier and more user friendly to understand.
 
 I have fixed every bug, every problem, and every error with the original code. I have also put everything together and I commented everything for an easier learning experience.
+On top of all of that everything has been updated to v14.8!
 
-I'm not profficient in coding whatsover so if you see any errors please feel free to tell me!
+I'm almost positive someone will find something wrong here to feel free to create an issue.
 ____
 DEPENDENCIES!
 
@@ -35,3 +36,4 @@ SIDE NOTE:
 
 NONE OF THIS CODE IS DIRECTLY MINE
 ALL CREDIT GOES TO: https://github.com/discordjs/guide
+
